@@ -1,0 +1,14 @@
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\bin\Debug\net7.0\BloodBowlGeneratorV3.exe
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\bin\Debug\net7.0\BloodBowlGeneratorV3.deps.json
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\bin\Debug\net7.0\BloodBowlGeneratorV3.runtimeconfig.json
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\bin\Debug\net7.0\BloodBowlGeneratorV3.dll
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\bin\Debug\net7.0\BloodBowlGeneratorV3.pdb
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\BloodBowlGeneratorV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\BloodBowlGeneratorV3.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\BloodBowlGeneratorV3.AssemblyInfo.cs
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\BloodBowlGeneratorV3.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\BloodBowlGeneratorV3.dll
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\refint\BloodBowlGeneratorV3.dll
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\BloodBowlGeneratorV3.pdb
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\BloodBowlGeneratorV3.genruntimeconfig.cache
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV3\obj\Debug\net7.0\ref\BloodBowlGeneratorV3.dll
